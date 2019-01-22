@@ -6,7 +6,8 @@ namespace _30Steps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Exo5_7 test = new Exo5_7(8);
+            Console.WriteLine(test.Factorielle());
         }
     }
 }
