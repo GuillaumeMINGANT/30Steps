@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mr.Mingant\\.nuget\\packages\\": {},
+    "C:\\Users\\cleme\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1_TRAVAILLE\\PROGRAMATION_C#\\30Steps\\30Steps\\30Steps\\30Steps.csproj",
+      "projectUniqueName": "C:\\Users\\cleme\\Documents\\C#\\30Steps\\30Steps\\30Steps\\30Steps\\30Steps.csproj",
       "projectName": "30Steps",
-      "projectPath": "D:\\1_TRAVAILLE\\PROGRAMATION_C#\\30Steps\\30Steps\\30Steps\\30Steps.csproj",
-      "packagesPath": "C:\\Users\\Mr.Mingant\\.nuget\\packages\\",
-      "outputPath": "D:\\1_TRAVAILLE\\PROGRAMATION_C#\\30Steps\\30Steps\\30Steps\\obj\\",
+      "projectPath": "C:\\Users\\cleme\\Documents\\C#\\30Steps\\30Steps\\30Steps\\30Steps\\30Steps.csproj",
+      "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cleme\\Documents\\C#\\30Steps\\30Steps\\30Steps\\30Steps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mr.Mingant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
